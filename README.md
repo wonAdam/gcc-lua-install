@@ -78,3 +78,4 @@ Now `run the shell script by double-clicking on build.cmd`, a window with a blac
 
 ### Step 5: Copy the Lua Binary Installation in a Suitable Location
 ### Step 6: Configure the System to Run Lua Files
+### Step 7: Enjoy ! 
