@@ -10,12 +10,18 @@ http://lua-users.org/wiki/BuildingLuaInWindowsForNewbies
 <br>
 
 > ### Step 1: Install the Compiler
+Make directory "tdm-gcc" in the cloned directory. And install the compiler in it.
+<br>
 <br>
 
 > ### Step 2: Install the Decompressor
+Double click the installer.
+<br>
 <br>
 
 > ### Step 3: Unpack Lua Sources using 7-Zip
+Unpack "lua-5.4.2" directory inside the "lua-5.4.2.tar.gz" file.
+<br>
 <br>
 
 > ### Step 4: Create a Windows Shell Script to Drive the Build
@@ -78,8 +84,10 @@ Now `run the shell script by double-clicking on build.cmd`, a window with a blac
 
 > ### Step 5: Copy the Lua Binary Installation in a Suitable Location
 <br>
+<br>
 
 > ### Step 6: Configure the System to Run Lua Files
+<br>
 <br>
 
 > ### Step 7: Enjoy ! 
