@@ -76,6 +76,11 @@ http://lua-users.org/wiki/BuildingLuaInWindowsForNewbies
 
 Now `run the shell script by double-clicking on build.cmd`, a window with a black background should appear.
 
-### Step 5: Copy the Lua Binary Installation in a Suitable Location
-### Step 6: Configure the System to Run Lua Files
-### Step 7: Enjoy ! 
+> ### Step 5: Copy the Lua Binary Installation in a Suitable Location
+<br>
+
+> ### Step 6: Configure the System to Run Lua Files
+<br>
+
+> ### Step 7: Enjoy ! 
+
